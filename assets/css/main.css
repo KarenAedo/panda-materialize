@@ -1,3 +1,18 @@
-.textHeader{
+*{
 	color: #FFF;
+}
+.textHeader{
+	padding-right: 3%;
+}
+.theHeader{
+	margin-bottom: 0;
+}
+header{
+	padding-bottom: 2%;
+}
+.imgOne{
+	width: 100%;
+}
+.textFooter{
+	padding-right: 3%;
 }
