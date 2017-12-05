@@ -1,6 +1,12 @@
 *{
 	color: #FFF;
 }
+.row{
+	margin-bottom: 0;
+}
+.row .col{
+	padding: 0;
+}
 .textHeader{
 	padding-right: 3%;
 }
@@ -10,8 +16,29 @@
 header{
 	padding-bottom: 2%;
 }
-.imgOne{
+.allBigImg{
 	width: 100%;
+}
+.aboutPandas{
+	padding: 10%;
+}
+.greenBox{
+	padding-top: 4%;
+	padding-bottom: 4%;
+	border-top: 1em solid #ff8a65;
+	border-bottom: 1em solid #ff8a65;
+}
+.smallImgBox{
+	padding-top: 4%;
+	padding-bottom: 6%;
+	border-top: 1em solid #ff8a65;
+	border-bottom: 1em solid #ff8a65;
+}
+.smallImgTitle{
+	padding-bottom: 2%;
+}
+.smallImg{
+	border: 0.5em solid #FFF;
 }
 .textFooter{
 	padding-right: 3%;
